@@ -1,0 +1,27 @@
+.container {
+  border: 1px solid black;
+  width: 500px;
+  height: 450px;
+  margin: 0 auto;
+  /* ასევე შეგვიძლია გავაკეთოთ Margin ებითაც */
+  padding-left: 150px;
+  padding-top: 200px;
+  /* ასევე შეგვიძლია გავაკეთოთ Margin ებითაც */
+  background-color: #c0c0c0;
+}
+
+p {
+  color: #0000f1;
+}
+.name1 {
+  font-size: 28px;
+  color: black;
+}
+
+.surname2 {
+  color: green;
+  font-size: 25px;
+}
+.hobby4 {
+  font-size: 17px;
+}
